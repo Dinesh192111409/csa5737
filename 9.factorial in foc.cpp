@@ -9,5 +9,5 @@ int main()
   for(i=1;i<=num;i++)
       f=f*i;
 
-  printf("The Factorial of %d is: %d\n",num,f);
+  printf("The Factorial of %d is:Â %d\n",num,f);
 }
