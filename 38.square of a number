@@ -1,0 +1,6 @@
+#! /bin/bash
+echo "enter a number:"
+read a
+sq=`expr "$a" \* "$a" `
+echo "The square of $a =" $sq
+
